@@ -18,7 +18,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/korivianilkumarreddy/excel_analytics_/blob/main/profit%20%26%20loss%20year.pdf)_ & _[knowing_deep_understand_sales&finance](https://github.com/korivianilkumarreddy/excel_analytics_/blob/main/REPORT_1.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/korivianilkumarreddy/excel_analytics/blob/main/fiscal_year.pdf)_ & _[knowing_deep_understand_sales&finance](https://github.com/korivianilkumarreddy/excel_analytics_/blob/main/REPORT_1.pdf)_ 
 
    **2.**  reports by _[executing_data](https://github.com/korivianilkumarreddy/excel_analytics_/blob/main/REPORT_2.pdf)_
    **3.**  final_report _[Analytics](https://github.com/korivianilkumarreddy/excel_analytics_/blob/main/REPORT_3.pdf)
